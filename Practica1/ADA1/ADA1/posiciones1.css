@@ -1,0 +1,85 @@
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.rectangle {
+    width: 6000px; /* Ajusta el ancho del rectángulo según sea necesario */
+    height: 100px; /* Ajusta la altura del rectángulo según sea necesario */
+    background-color: beige;
+    margin-right: 10px;
+}
+
+.logo {
+    width: 100px; /* Ajusta el ancho de la imagen según sea necesario */
+    height: auto; /* La altura se ajusta automáticamente para mantener la proporción */
+}
+
+table {
+    background-color: brown;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 50vh;
+    height: 60vh;
+}
+
+.button1 {
+    width: 150px; /* Ancho del botón */
+    height: 30px; /* Alto del botón */
+    font-size: 16px; /* Tamaño del texto */
+    position: absolute;
+    top: 280px;
+    left: 60px;
+}
+
+
+.TituloLogin{
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    position: absolute;
+    top: 0px;
+    left: 20px;
+    width: 1050px; /* Ajusta el ancho del rectángulo según sea necesario */
+    height: 100px; /* Ajusta la altura del rectángulo según sea necesario */
+
+}
+
+.loginuser{
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    position: absolute;
+    top: 100px;
+    left: 80px;
+    font-size: 30px;
+
+}
+.loginuser1{
+    position: absolute;
+    top: 150px;
+    left: 60px;
+
+}
+
+.loginpassword{
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    position: absolute;
+    top: 190px;
+    left: 80px;
+    font-size: 30px;
+
+}
+.loginpassword1{
+    position: absolute;
+    top: 230px;
+    left: 60px;
+
+}
+
+.Login {
+    background-color: slategray;
+    position: absolute;
+    top: 200px;
+    left: 600px;
+    width: 300px; /* Ajusta el ancho del rectángulo según sea necesario */
+    height: 400px; /* Ajusta la altura del rectángulo según sea necesario */
+}

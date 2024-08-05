@@ -1,0 +1,105 @@
+.Panel{
+    background-color: rgba(26, 26, 26, 0.985);
+    width: 986px;
+    height: 100px;
+    top: -10px;
+    border-radius: 5px;
+}
+
+.Panel h1{
+    position: absolute;
+    color: red;
+    font-size: 80px;
+    top: -35px;
+    left: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.D1,a{
+    position: relative;
+    top: 41.5px;
+    left: 165px;
+    text-decoration: none;
+    color: wheat;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.D2,a{
+    position: relative;
+    left: 220px;
+    top: 0px;
+    color: wheat;
+    text-decoration: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.D3{
+    position: relative;
+    left: 500px;
+    top: -41px;
+    color: wheat;
+    cursor: pointer;
+}
+
+.D4{
+    position: absolute;
+    width: 85px;
+    right: 30px;
+    top: 28px;
+    border-radius: 15px;
+}
+
+.Panel2{
+    background-color: rgba(26, 26, 26, 0.985);
+    width: 986px;
+    height: 420px;
+    border-radius: 5px;
+}
+
+#Q1{
+    margin-top: 10px;
+    margin-left: 30px;
+    width: 930px;
+    height: 400px;
+}
+
+.Panel3{
+    background-color: rgba(26, 26, 26, 0.985);
+    width: 986px;
+    height: 90px;
+    border-radius: 15px;
+}
+
+.T1{
+    width: 80px;
+    height: 80px;
+    margin-left: 230px;
+    margin-top: -30px;
+    border-radius: 80px;
+}
+
+.T2{
+    width: 80px;
+    height: 80px;
+    margin-left: 45px;
+    margin-top: -30px;
+    border-radius: 80px;
+}
+
+.T3{
+    width: 80px;
+    height: 80px;
+    margin-left: 45px;
+    margin-top: -30px;
+    border-radius: 80px;
+}
+
+.T4{
+    width: 80px;
+    height: 80px;
+    margin-left: 45px;
+    margin-top: -30px;
+    border-radius: 80px;
+}

@@ -1,0 +1,202 @@
+.panel{
+    background-color: lightsteelblue;
+    width: 220px;
+    height: 730px;
+    left: 0px;
+    top: 0px;
+    border-radius: 10px;
+}
+
+.subpanel{
+    position: absolute;
+    background-color: bisque;
+    width: 205px;
+    height: 200px;
+    left: 15px;
+    top: 30px;
+    border-radius: 17px;
+
+}
+.link-cont{
+    position: relative;
+    top: 20px;
+    left:  5px;
+
+}
+.link-cont button{
+    width: 195px;
+    height: 60px;
+    border-radius: 15px;
+    font-size: 15px;
+    font-family: cursive;
+    background-color: burlywood;
+    cursor: pointer;
+    color: darkolivegreen;
+}
+
+.link-cont button:hover{
+    border-color: burlywood;
+    transition: .5s;
+}
+
+.button2{
+    position: relative;
+    top: 60px;
+    left: 5px;
+}
+
+.button2 button{
+    width: 195px;
+    height: 60px;
+    border-radius: 15px;
+    font-size: 15px;
+    font-family: cursive;
+    background-color: burlywood;
+    color: darkolivegreen;
+    cursor: pointer;
+}
+
+.button2 button:hover{
+    border-color: burlywood;
+    transition: .5s;
+}
+
+.subpanel2{
+    position: absolute;
+    background-color: navajowhite;
+    width: 205px;
+    height: 490px;
+    left: 1px;
+    top: 210px;
+    border-radius: 15px;
+}
+
+.Lista1{
+    position: relative;
+    top:  35px;
+    left: 6px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.Lista1 th, .Lista1 td{
+    width: 183px;
+    height: 45px;
+    border-collapse: collapse;
+    background-color: tan;
+}
+
+.Lista1 td{
+    border: none;
+}
+
+.Lista2{
+    position: relative;
+    top: 60px;
+    left: 6px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.Lista2 th, .Lista2 td{
+    width: 183px;
+    height: 46px;
+    border-collapse: collapse;
+    background-color: tan;
+}
+
+.Lista2 a{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
+.Lista2 td{
+    border: none;
+}
+
+.panel2{
+    position: absolute;
+    background-color: lightsteelblue;
+    width: 1205px;
+    height: 730px;
+    left: 270px;
+    top: 7px;
+    border-radius: 15px;
+}
+
+.subpanel3{
+    position: absolute;
+    background-color: beige;
+    width: 1190px;
+    height: 130px;
+    top: 15px;
+    left: 8px;
+    border-radius: 12px;
+}
+
+.subpanel3 h1{
+    position: relative;
+    font-size: 50px;
+    left: 10px;
+    top: 10px;
+}
+
+.A1{
+    position: absolute;
+    width: 95px;
+    height: auto;
+    margin-top: -120px;
+    margin-left: 1082px;
+}
+
+.subpanel4{
+    position: absolute;
+    background-color: bisque;
+    width: 1190px;
+    left: 8px;
+    top: 160px;
+    height: 220px;
+    border-radius: 12px;
+}
+
+.subpanel4 p{
+    position: relative;
+    font-size: 25px;
+    left: 220px;
+    top: 95px;
+}
+.C1{
+    position: absolute;
+    height: 190px;
+    width: auto;
+    margin-left: 15px;
+    margin-top: -22px;
+    border-radius: 10px;
+}
+
+.subpanel5{
+    position: absolute;
+    background-color: palegoldenrod;
+    width: 1190px;
+    left: 8px;
+    top: 390px;
+    height: 330px;
+    border-radius: 12px;
+    overflow-y: auto;
+}
+
+.Lista3{
+    position: relative;
+    top: 10px;
+    left: 110px;
+    width: 1000px;
+    height: 100%;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-collapse: collapse;
+}
+
+.Lista3 th, .Lista3 td{
+    height: 0px;
+}

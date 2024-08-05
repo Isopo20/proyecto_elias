@@ -1,0 +1,223 @@
+.Titulo_de_entrada{
+    color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    font-size: 80px; /* Tamaño de fuente más grande */
+    position: absolute;
+    left: 600px; /* Ajusta la posición izquierda */
+    top: -30px; /* Ajusta la posición superior */
+}
+
+.Table1{
+    background-color: rgb(13, 160, 18);
+    position: absolute;
+    top: 28.85%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 10vh;
+    height: 30vh;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    position: relative; /* Necesario si el rectángulo está dentro de un contenedor */
+}
+
+.rectangle {
+    width: 1050px; /* Ajusta el ancho del rectángulo según sea necesario */
+    height: 100px; /* Ajusta la altura del rectángulo según sea necesario */
+    background-color: #ccc;
+    margin-right: 10px;
+    position: absolute; /* Posiciona el elemento de manera fija en la ventana */
+    right: 0; /* Pega el elemento al lado derecho */
+    top: 10px; /* Ajusta la distancia desde la parte superior */
+    transform: translate(-5%, 10%);
+}
+.rectangle2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(18, 135, 161);
+    width: 220px; /* Ajusta el ancho del contenedor según sea necesario */
+    height: 200px; /* Ajusta la altura del contenedor según sea necesario */
+    margin-right: 10px;
+    padding: 10px; /* Añadir un poco de espacio dentro del contenedor */
+}
+
+.rectangle3 {
+    background-color: rgb(18, 135, 161);
+    width: 1031px; /* Ajusta el ancho del contenedor según sea necesario */
+    height: 190px; /* Ajusta la altura del contenedor según sea necesario */
+    padding: 10px; /* Añadir un poco de espacio dentro del contenedor */
+    position: relative; /* Posiciona el elemento de manera relativa */
+    left: 37px; /* Ajusta la posición izquierda */
+    top: 110px; /* Ajusta la posición superior */
+
+}
+.rectangule4 {
+    background-color: rgb(18, 135, 161);
+    width: 1031px; /* Ajusta el ancho del contenedor según sea necesario */
+    height: 500px; /* Ajusta la altura del contenedor según sea necesario */
+    padding: 10px; /* Añadir un poco de espacio dentro del contenedor */
+    position: absolute; /* Posiciona el elemento de manera relativa */
+    left: 37px; /* Ajusta la posición izquierda */
+    top: 340px; /* Ajusta la posición superior */
+
+}
+.playlistplay{
+    width: 1000px; /* Ajusta el ancho del contenedor según sea necesario */
+    height: 220px; /* Ajusta la altura del contenedor según sea necesario * width: auto; /* La tabla solo ocupará el espacio necesario */
+    border-collapse: collapse; /* Colapsa los bordes para que no haya espacios entre ellos */
+    object-position: center;
+    position: absolute;
+    left: 22px; /* Ajusta la posición izquierda */
+    top: 2px; /* Ajusta la posición superior */
+}
+
+.playlistplay th,
+.playlistplay td {
+    border: 1px solid black; /* Añade un borde de 1px sólido y negro a todas las celdas */
+    padding: 8px; /* Añade un poco de espacio dentro de las celdas */
+    text-align: left; /* Alinea el texto a la izquierda */
+    white-space: nowrap; /* Evita que el texto se rompa en varias líneas */
+}
+
+.playlistplay th {
+    background-color: #f2f2f2; /* Añade un color de fondo a los encabezados */
+}
+.rectangulo_maestro{
+    width: 1150px; /* Ajusta el ancho del rectángulo según sea necesario */
+    height: 900px; /* Ajusta la altura del rectángulo según sea necesario */
+    background-color: #7dd715;
+    margin-right: 10px;
+    position: absolute; /* Posiciona el elemento de manera fija en la ventana */
+    right: 0; /* Pega el elemento al lado derecho */
+    top: 10px; /* Ajusta la distancia desde la parte superior */
+    left: 310px; /* Ajusta la posición izquierda */
+    top: 138px; /* Ajusta la posición superior */
+}
+
+.logo {
+    width: 100px; /* Ajusta el ancho de la imagen según sea necesario */
+    height: auto; /* La altura se ajusta automáticamente para mantener la proporción */
+    position: absolute;
+    left: 950px; /* Ajusta la posición izquierda */
+    top: 0px; /* Ajusta la posición superior */
+}
+
+.Config_Buttoms {
+    width: 10px; /* Ancho del botón */
+    height: 5px; /* Alto del botón */
+    font-size: 5px; /* Tamaño del texto */
+}
+.lo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: green;
+    width: 250px; /* Ajusta el ancho del contenedor según sea necesario */
+    height: 550px; /* Ajusta la altura del contenedor según sea necesario */
+    margin-right: 10px;
+    padding: 20px; /* Añadir un poco de espacio dentro del contenedor */
+    transform: translate(0%, 23.5%);
+}
+.lo button {
+    width: 200px; /* Ancho del botón */
+    height: 40px; /* Alto del botón */
+    font-size: 16px; /* Tamaño del texto */
+    margin: 5px 0; /* Espacio entre los botones */
+    transform: translate(0%, 80%);
+}
+
+.Titulo_Maestro{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.Titulo{
+    position: absolute;
+    left: 300px; /* Ajusta la posición izquierda */
+    top: 70px; /* Ajusta la posición superior */
+}
+
+
+.Picture2 {
+    width: 180px; /* Ajusta el ancho de la imagen según sea necesario */
+    height: 180px; /* La altura se ajusta automáticamente para mantener la proporción */
+    position: absolute;
+    left: 45px; /* Ajusta la posición izquierda */
+    top: 15px; /* Ajusta la posición superior */
+}
+
+
+.Lista1 {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(18, 135, 161);
+    width: 240px; /* Ajusta el ancho del contenedor según sea necesario */
+    height: 332px; /* Ajusta la altura del contenedor según sea necesario */
+    position: absolute;
+    left: 20px; /* Ajusta la posición izquierda */
+    top: 250px; /* Ajusta la posición superior */
+}
+
+.TABLA1 {
+    width: auto; /* La tabla solo ocupará el espacio necesario */
+    border-collapse: collapse; /* Colapsa los bordes para que no haya espacios entre ellos */
+    position: absolute;
+    left: 22px; /* Ajusta la posición izquierda */
+    top: 2px; /* Ajusta la posición superior */
+}
+
+.TABLA1 th,
+.TABLA1 td {
+    border: 1px solid black; /* Añade un borde de 1px sólido y negro a todas las celdas */
+    padding: 8px; /* Añade un poco de espacio dentro de las celdas */
+    text-align: left; /* Alinea el texto a la izquierda */
+    white-space: nowrap; /* Evita que el texto se rompa en varias líneas */
+}
+
+.TABLA1 th {
+    background-color: #f2f2f2; /* Añade un color de fondo a los encabezados */
+}
+
+.TABLA2 {
+    width: auto; /* La tabla solo ocupará el espacio necesario */
+    border-collapse: collapse; /* Colapsa los bordes para que no haya espacios entre ellos */
+    position: absolute;
+    left: 22px; /* Ajusta la posición izquierda */
+    top: 112px; /* Ajusta la posición superior */
+}
+
+.TABLA2 th,
+.TABLA2 td {
+    border: 1px solid black; /* Añade un borde de 1px sólido y negro a todas las celdas */
+    padding: 8px; /* Añade un poco de espacio dentro de las celdas */
+    text-align: left; /* Alinea el texto a la izquierda */
+    white-space: nowrap; /* Evita que el texto se rompa en varias líneas */
+}
+
+.TABLA2 th {
+    background-color: #f2f2f2; /* Añade un color de fondo a los encabezados */
+}
+
+.TABLA3 {
+    width: auto; /* La tabla solo ocupará el espacio necesario */
+    border-collapse: collapse; /* Colapsa los bordes para que no haya espacios entre ellos */
+    position: absolute;
+    left: 22px; /* Ajusta la posición izquierda */
+    top: 223px; /* Ajusta la posición superior */
+}
+
+.TABLA3 th,
+.TABLA3 td {
+    border: 1px solid black; /* Añade un borde de 1px sólido y negro a todas las celdas */
+    padding: 8px; /* Añade un poco de espacio dentro de las celdas */
+    text-align: left; /* Alinea el texto a la izquierda */
+    white-space: nowrap; /* Evita que el texto se rompa en varias líneas */
+}
+
+.TABLA3 th {
+    background-color: #f2f2f2; /* Añade un color de fondo a los encabezados */
+}

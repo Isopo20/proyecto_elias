@@ -1,0 +1,53 @@
+.panel1{
+    position: absolute;
+    background-color: rgba(26, 26, 26, 0.985);
+    width: 940px;
+    height: 100px;
+    top: 95px;
+    left: 30px;
+}
+
+.panel1 h1{
+    font-size: 55px;
+    text-align: center;
+    color: whitesmoke;
+}
+
+.panel2{
+    position: absolute;
+    background-color: rgba(26, 26, 26, 0.985);
+    width: 940px;
+    height: 300px;
+    top: 250px;
+    left: 30px;
+}
+
+.C1{
+    position: absolute;
+    width: 245px;
+    height: auto;
+    top: 28px;
+    left: 45px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.C2{
+    position: absolute;
+    width: 245px;
+    height: 245px;
+    top: 28px;
+    left: 349px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.C3{
+    position: absolute;
+    width: 245px;
+    height: 245px;
+    top: 28px;
+    right: 45px;
+    border-radius: 15px;
+    cursor: pointer;
+}

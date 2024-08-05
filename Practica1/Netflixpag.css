@@ -1,0 +1,355 @@
+.Panel{
+    background-color: rgba(26, 26, 26, 0.985);
+    width: 986px;
+    height: 100px;
+    top: -10px;
+    border-radius: 5px;
+}
+
+.Panel h1{
+    position: absolute;
+    color: red;
+    font-size: 80px;
+    top: -35px;
+    left: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.D1,a{
+    position: relative;
+    top: 21px;
+    left: 190px;
+    text-decoration: none;
+    color: wheat;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.D2{
+    position: relative;
+    left: 440px;
+    color: wheat;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.D3{
+    position: relative;
+    left: 500px;
+    top: -41px;
+    color: wheat;
+    cursor: pointer;
+}
+
+.D4{
+    position: absolute;
+    width: 85px;
+    right: 30px;
+    top: 28px;
+    border-radius: 15px;
+}
+
+.D5{
+    position: relative;
+    top:  10px;
+    color: whitesmoke;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 26px;
+}
+
+.Panel2{
+    background-color: rgba(26, 26, 26, 0.985);
+    width: 986px;
+    height: 130px;
+    border-radius: 15px;
+}
+
+.D6{
+    position: relative;
+    top: 8px;
+    color: whitesmoke;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 26px;
+}
+
+.Panel3{
+    background-color: rgba(26, 26, 26, 0.985);
+    width: 986px;
+    height: 130px;
+    border-radius: 15px;
+}
+
+.Panel4{
+    position: absolute;
+    background-color: rgba(26, 26, 26, 0.985);
+    top: 565px;
+    width: 986px;
+    height: 140px;
+    border-radius: 15px;
+    overflow-x: scroll;
+}
+
+.Panel5{
+    position: absolute;
+    background-color: rgba(26, 26, 26, 0.985);
+    top: 730px;
+    width: 986px;
+    height: 90px;
+    border-radius: 15px;
+}
+
+.Panel6{
+    position: absolute;
+    background-color: rgba(26, 26, 26, 0.985);
+    top: 840px;
+    width: 986px;
+    height: 70px;
+    border-radius: 15px;
+}
+
+.E1{
+    width: 100px;
+    height: 110px;
+    margin-top: 10px;
+    margin-left: 25px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.E2{
+    position: absolute;
+    width: 100px;
+    height: 110px;
+    top: -115px;
+    left: 533px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.E3{
+    width: 100px;
+    height: 110px;
+    margin-left: 35px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.E4{
+    width: 100px;
+    height: 110px;
+    margin-top: 10px;
+    margin-left: 35px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.E5{
+    width: 100px;
+    height: 110px;
+    margin-left: 35px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.E6{
+    width: 100px;
+    height: 110px;
+    margin-left: 35px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.E7{
+    width: 100px;
+    height: 110px;
+    margin-left: 35px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.F1{
+    width: 100px;
+    height: 110px;
+    margin-top: 10px;
+    margin-left: 25px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.F2{
+    width: 100px;
+    height: 110px;
+    margin-left: 35px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.F3{
+    width: 100px;
+    height: 110px;
+    margin-left: 35px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.F4{
+    width: 100px;
+    height: 110px;
+    margin-left: 35px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.F5{
+    width: 100px;
+    height: 110px;
+    margin-left: 35px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.F6{
+    width: 100px;
+    height: 110px;
+    margin-left: 35px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.F7{
+    position: absolute;
+    width: 100px;
+    height: 110px;
+    margin-left: -155px;
+    margin-top: -12px;
+    border-radius: 15px;
+}
+
+.R1{
+    position: absolute;
+    margin-top: 13px;
+    margin-left: 14px;
+    font-size: 105px;
+    color: whitesmoke;
+}
+
+.G1{
+    position: absolute;
+    width: 140px;
+    height: 120px;
+    top: -123px;
+    margin-left: -125px;
+    border-radius: 15px;
+    
+}
+
+.R2{
+    position: absolute;
+    top: -56px;
+    margin-left: 240px;
+    font-size: 105px;
+    color: whitesmoke;
+}
+
+.G2{
+    position: absolute;
+    width: 140px;
+    height: 120px;
+    top: -123px;
+    margin-left: 110px;
+    border-radius: 15px;
+}
+
+.R3{
+    position: absolute;
+    top: -56px;
+    margin-left: 470px;
+    font-size: 105px;
+    color: whitesmoke;
+}
+
+.G3{
+    position: absolute;
+    width: 140px;
+    height: 120px;
+    top: -123px;
+    margin-left: 335px;
+    border-radius: 15px;
+}
+
+.R4{
+    position: absolute;
+    top: -56px;
+    margin-left: 697px;
+    font-size: 105px;
+    color: whitesmoke;
+}
+
+.G4{
+    width: 140px;
+    height: 120px;
+    margin-top: 10px;
+    margin-left: 754px;
+    border-radius: 15px;
+    cursor: pointer;  
+}
+
+.R5{
+    position: absolute;
+    top: -56px;
+    margin-left: 920px;
+    font-size: 105px;
+    color: whitesmoke;
+}
+
+.G5{
+    position: absolute;
+    width: 140px;
+    height: 120px;
+    margin-top: 10px;
+    margin-left: 85px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.T1{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 230px;
+    top: 5px;
+    border-radius: 80px;
+}
+
+.T2{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 345px;
+    top: 5px;
+    border-radius: 80px;
+}
+
+.T3{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 460px;
+    top: 5px;
+    border-radius: 80px;
+}
+
+.T4{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 575px;
+    top: 5px;
+    border-radius: 80px;
+}
+
+.Panel6 h2{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: whitesmoke;
+}

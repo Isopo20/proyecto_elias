@@ -1,0 +1,12 @@
+
+body{color: purple;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+padding: 11em;
+}
+
+.navbar{
+    position: absolute;
+    top: 2em;
+    left: 1em;
+    width: 8em;
+}
